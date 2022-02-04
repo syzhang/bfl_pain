@@ -13,4 +13,4 @@ module load Tkinter/2.7.15-foss-2018b-Python-2.7.15
 source /well/seymour/users/uhu195/python/bigflica-py2.7.15-${MODULE_CPU_TYPE}/bin/activate
 
 # continue to use your python venv as normal
-python /well/seymour/users/uhu195/python/pain/test.py
+python /well/seymour/users/uhu195/python/pain/test_shared.py
